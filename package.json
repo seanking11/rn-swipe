@@ -5,7 +5,8 @@
     "expo": "^24.0.0",
     "react": "16.0.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz",
-    "react-native-elements": "^0.18.5"
+    "react-native-elements": "^0.18.5",
+    "twilio": "^3.0.0-rc.13"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.1",
