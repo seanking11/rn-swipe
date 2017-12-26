@@ -3,3 +3,4 @@ node_modules/
 .expo/*
 npm-debug.*
 service_account.json
+twilioKeys.js
