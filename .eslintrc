@@ -34,6 +34,7 @@
     "no-console": [2, { allow: ['info', 'warn', 'error'] }],
     "no-restricted-syntax": ["error", "ForInStatement", "LabeledStatement", "WithStatement"],
     "import/no-named-default": 0,
-    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }]
+    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+    "radix": 0
   }
 }
